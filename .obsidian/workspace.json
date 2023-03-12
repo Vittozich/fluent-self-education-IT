@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4f79772b0d73c80a",
+        "id": "ab090c11f3578910",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e09aece8674a8d",
+            "id": "d4174b2ea5c08e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf5f21067ed24225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd8366a071ee3683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21c7f66c0b94d724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b868b6b3a65cba8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About/Техническая составляющая.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65d97197bb823186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About/Техническая составляющая.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96f68fae61ddd0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About/TODO план развития.md",
+                "file": "About/Когнитивная сложность источника.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "About/Когнитивная сложность источника.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "About/Когнитивная сложность источника.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "About/Когнитивная сложность источника.md"
               }
             }
           }
@@ -219,15 +146,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "21c7f66c0b94d724",
+  "active": "d4174b2ea5c08e43",
   "lastOpenFiles": [
-    "CONTRUBUTING.md",
-    "About/TODO план развития.md",
     "About/Градация источников.md",
-    "About/Когнитивная сложность источника.md",
-    "About/Техническая составляющая.md",
-    "README.md",
+    "About/Проблемы изучения источников.md",
     "About/Разделение источников по разделам и темам.md",
-    "About"
+    "About/Техническая составляющая.md",
+    "About/TODO план развития.md",
+    "Problems/Ложное понимание.md",
+    "Levels/Чистый лист, вообще не в теме.md",
+    "CONTRUBUTING.md",
+    "Sources/Materials/Гарвардский курс CS50 основы.md",
+    "Sources/Materials",
+    "Sources/Links",
+    "Directions/Общие знания по программированию.md",
+    "Sources/Full/Гарвардский курс CS50.md",
+    "Sources/Full",
+    "README.md",
+    "Sources/Без названия.md",
+    "Sources/Main",
+    "Sources",
+    "Levels/0/Гарвардск.md",
+    "Levels/0",
+    "About/Когнитивная сложность источника.md",
+    "Problems",
+    "Directions",
+    "Themes",
+    "Levels"
   ]
 }
