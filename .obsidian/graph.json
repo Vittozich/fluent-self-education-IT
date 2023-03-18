@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 8745231
       }
+    },
+    {
+      "query": "tag:#problem",
+      "color": {
+        "a": 1,
+        "rgb": 14639758
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 0.895833333333333,
   "linkDistance": 30,
-  "scale": 0.7132754626224447,
+  "scale": 0.2588386562181645,
   "close": false
 }
