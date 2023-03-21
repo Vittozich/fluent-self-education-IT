@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94b4ad82881a6908",
+        "id": "878ecc0e87ea4ecb",
         "type": "tabs",
         "children": [
           {
-            "id": "32d2f5fb416ef102",
+            "id": "2f9abb9c451a9483",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Вода",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,25 +146,33 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "32d2f5fb416ef102",
+  "active": "2f9abb9c451a9483",
   "lastOpenFiles": [
-    "Problems/Сволочи копирайтеры и рекламщики.md",
-    "Problems/Ложное понимание.md",
+    "Sources/Materials/Listen IT База, о канале.md",
+    "Sources/Materials/Alek OS компьютерные основы.md",
+    "Sources/Materials/Гарвардский курс CS50 основы.md",
+    "Directions/Общие знания по компьютерным системам.md",
     "Directions/Общие знания по программированию.md",
     "Levels/Чистый лист, вообще не в теме.md",
+    "Problems/Ложное понимание.md",
+    "Problems/Сволочи копирайтеры и рекламщики.md",
+    "Sources/Full/Alek OS.md",
     "Sources/Full/Гарвардский курс CS50.md",
-    "Sources/Materials/Гарвардский курс CS50 основы.md",
-    "Sources/Materials/Listen IT База, о канале.md",
-    "Sources/Full/Listen IT.md",
+    "About/Ценность информации.md",
     "About/TODO план развития.md",
-    "About/Техническая составляющая.md",
-    "About/Разделение источников по разделам и темам.md",
-    "About/Проблемы изучения источников.md",
-    "About/Когнитивная сложность источника.md",
-    "About/Градация источников.md",
     "README.md",
-    "о-проекте.md",
+    "About/Сложность понимания источника.md",
+    "Directions/Общие знания по компьютерам/Без названия.canvas",
+    "Directions/Общие знания по компьютерам",
     "CONTRUBUTING.md",
+    "About/Техническая составляющая.md",
+    "About/Проблемы изучения источников.md",
+    "About/Разделение источников по разделам и темам.md",
+    "About/Градация источников.md",
+    "Без названия.canvas",
+    "2023-03-21.md",
+    "Sources/Full/Listen IT.md",
+    "о-проекте.md",
     "Sources/Materials",
     "Sources/Links",
     "Sources/Full",
@@ -175,7 +183,6 @@
     "Levels/0",
     "Problems",
     "Directions",
-    "Themes",
-    "Levels"
+    "Themes"
   ]
 }
