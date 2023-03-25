@@ -1,0 +1,2 @@
+- [Полный курс по Csharp от Романа Сакутина](../Sources/Materials/Полный%20курс%20по%20Csharp%20от%20Романа%20Сакутина.md) - этот курс позволит тебе выучить C#
+- [SimpleCode полный курс Csharp](../Sources/Materials/SimpleCode%20полный%20курс%20Csharp.md) - C#
